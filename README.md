@@ -1,5 +1,6 @@
 # The-Cuis-CookBook
-A list of procedures to start using Cuis-Smalltalk with little effort
 
-[[test page]]
+This repository hosts **The Cuis-Smalltalk CookBook**, click on the **Wiki** tab on the top to enter
+
+
 
